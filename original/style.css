@@ -724,7 +724,7 @@ footer p {
 	height: 50px;
 	background-color: #ff6d6d;
 	border: none;
-	background-image: url(resources/images/plane.webp);
+	background-image: url(resources/images/plane.png);
 	background-repeat: no-repeat;
 	background-position: center;
 }
